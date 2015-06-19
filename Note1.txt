@@ -8,3 +8,10 @@ Issue # FUN-2 Fixed ....changes are upto date
 Issue # FUN-5 ...this changes are done 
 
 Issue # FUN- 4 all changes are updated in the code 
+
+Issue # FUN-1 fixed  -- Hello 
+Issue # FUN-2 fixed --- hello 1
+Issue # FUN-3 fixed 
+Issue # FUN-4 fixed 
+
+All issues are fixed 
